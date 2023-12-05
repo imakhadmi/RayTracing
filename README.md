@@ -50,11 +50,11 @@ Examples of the rendered images produced by the ray tracer.
 </p>
 
 <p align="center">
-    <img src="images/image21.jpg" alt="Image" width="1200" height="675" />
+    <img src="images/image21.jpg" alt="Image" width="900" height="506" />
 </p>
 
 <p align="center">
-    <img src="images/image22.jpg" alt="Image" width="1200" height="675" />
+    <img src="images/image22.jpg" alt="Image" width="900" height="506" />
 </p>
 
 ## Reference
